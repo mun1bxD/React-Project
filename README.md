@@ -44,5 +44,5 @@ A task management application built using Redux Toolkit for state management. Th
 
 To get started with any of these applications, clone the repository and install the necessary dependencies:
 
-```bash
-git clone https://github.com/yo/react-project.git
+```bash[
+git clone https://github.com/yo/react-project.git](https://github.com/mun1bxD/React-Project.git)
